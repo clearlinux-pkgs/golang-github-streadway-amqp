@@ -1,6 +1,6 @@
 Name     : golang-github-streadway-amqp
 Version  : 0
-Release  : 2
+Release  : 3
 URL      : https://github.com/streadway/amqp/archive/79beb307dcf5904fb8cb061276f1c14f222012c2.tar.gz
 Source0  : https://github.com/streadway/amqp/archive/79beb307dcf5904fb8cb061276f1c14f222012c2.tar.gz
 Summary  : No detailed summary available
